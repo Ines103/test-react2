@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstName": "ines",
+      "lastName": "bellaaj",
+      "email": "inesbelaaj@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "todoList": []
+}
